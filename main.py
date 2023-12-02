@@ -15,4 +15,4 @@ def first_encounter():
 
 first_encounter()
 print(first_encounter.__doc__)
-#Revoir les sets
+#Revoir les sets    
